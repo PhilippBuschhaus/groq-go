@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/conneroisu/groq-go/pkg/builders"
 	"github.com/gorilla/websocket"
+	"github.com/philippbuschhaus/groq-go/pkg/builders"
 )
 
 type (

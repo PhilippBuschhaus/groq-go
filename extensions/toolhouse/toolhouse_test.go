@@ -5,10 +5,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/conneroisu/groq-go"
-	"github.com/conneroisu/groq-go/extensions/toolhouse"
-	"github.com/conneroisu/groq-go/pkg/models"
-	"github.com/conneroisu/groq-go/pkg/test"
+	"github.com/philippbuschhaus/groq-go"
+	"github.com/philippbuschhaus/groq-go/extensions/toolhouse"
+	"github.com/philippbuschhaus/groq-go/pkg/models"
+	"github.com/philippbuschhaus/groq-go/pkg/test"
 	"github.com/stretchr/testify/assert"
 )
 

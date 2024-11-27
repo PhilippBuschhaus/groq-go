@@ -4,8 +4,8 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/conneroisu/groq-go/pkg/builders"
-	"github.com/conneroisu/groq-go/pkg/tools"
+	"github.com/philippbuschhaus/groq-go/pkg/builders"
+	"github.com/philippbuschhaus/groq-go/pkg/tools"
 )
 
 // GetTools returns a list of tools that the extension can use.

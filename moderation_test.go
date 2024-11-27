@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	groq "github.com/conneroisu/groq-go"
-	"github.com/conneroisu/groq-go/pkg/models"
+	groq "github.com/philippbuschhaus/groq-go"
+	"github.com/philippbuschhaus/groq-go/pkg/models"
 	"github.com/stretchr/testify/assert"
 )
 

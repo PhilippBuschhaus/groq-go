@@ -1,5 +1,5 @@
 version: '3'
-# url: https://github.com/conneroisu/groq-go/Taskfile.yaml
+# url: https://github.com/philippbuschhaus/groq-go/Taskfile.yaml
 
 tasks:
   run: 

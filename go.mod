@@ -1,4 +1,4 @@
-module github.com/conneroisu/groq-go
+module github.com/philippbuschhaus/groq-go
 
 go 1.23.2
 

@@ -1,4 +1,4 @@
-module github.com/conneroisu/groq-go/generate-jigsaw-accents
+module github.com/philippbuschhaus/groq-go/generate-jigsaw-accents
 
 go 1.23.2
 

@@ -6,8 +6,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/conneroisu/groq-go"
-	"github.com/conneroisu/groq-go/pkg/tools"
+	"github.com/philippbuschhaus/groq-go"
+	"github.com/philippbuschhaus/groq-go/pkg/tools"
 )
 
 type (

@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/conneroisu/groq-go"
-	"github.com/conneroisu/groq-go/pkg/groqerr"
-	"github.com/conneroisu/groq-go/pkg/streams"
-	"github.com/conneroisu/groq-go/pkg/test"
+	"github.com/philippbuschhaus/groq-go"
+	"github.com/philippbuschhaus/groq-go/pkg/groqerr"
+	"github.com/philippbuschhaus/groq-go/pkg/streams"
+	"github.com/philippbuschhaus/groq-go/pkg/test"
 	"github.com/stretchr/testify/assert"
 )
 

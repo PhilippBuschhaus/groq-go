@@ -10,8 +10,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/conneroisu/groq-go"
-	"github.com/conneroisu/groq-go/pkg/models"
+	"github.com/philippbuschhaus/groq-go"
+	"github.com/philippbuschhaus/groq-go/pkg/models"
 )
 
 var (

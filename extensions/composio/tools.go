@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/conneroisu/groq-go/pkg/builders"
-	"github.com/conneroisu/groq-go/pkg/tools"
+	"github.com/philippbuschhaus/groq-go/pkg/builders"
+	"github.com/philippbuschhaus/groq-go/pkg/tools"
 )
 
 type (

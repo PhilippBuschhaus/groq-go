@@ -18,11 +18,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/conneroisu/groq-go"
-	"github.com/conneroisu/groq-go/pkg/groqerr"
-	"github.com/conneroisu/groq-go/pkg/models"
-	"github.com/conneroisu/groq-go/pkg/moderation"
-	"github.com/conneroisu/groq-go/pkg/test"
+	"github.com/philippbuschhaus/groq-go"
+	"github.com/philippbuschhaus/groq-go/pkg/groqerr"
+	"github.com/philippbuschhaus/groq-go/pkg/models"
+	"github.com/philippbuschhaus/groq-go/pkg/moderation"
+	"github.com/philippbuschhaus/groq-go/pkg/test"
 	"github.com/stretchr/testify/assert"
 )
 

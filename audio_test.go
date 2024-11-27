@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	groq "github.com/conneroisu/groq-go"
-	"github.com/conneroisu/groq-go/pkg/builders"
-	"github.com/conneroisu/groq-go/pkg/test"
+	groq "github.com/philippbuschhaus/groq-go"
+	"github.com/philippbuschhaus/groq-go/pkg/builders"
+	"github.com/philippbuschhaus/groq-go/pkg/test"
 	"github.com/stretchr/testify/assert"
 )
 

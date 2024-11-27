@@ -17,8 +17,8 @@ import (
 
 	_ "embed"
 
-	"github.com/conneroisu/groq-go/pkg/builders"
-	"github.com/conneroisu/groq-go/pkg/test"
+	"github.com/philippbuschhaus/groq-go/pkg/builders"
+	"github.com/philippbuschhaus/groq-go/pkg/test"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
 )

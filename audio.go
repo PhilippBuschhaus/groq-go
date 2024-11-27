@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/conneroisu/groq-go/pkg/builders"
-	"github.com/conneroisu/groq-go/pkg/models"
+	"github.com/philippbuschhaus/groq-go/pkg/builders"
+	"github.com/philippbuschhaus/groq-go/pkg/models"
 )
 
 const (

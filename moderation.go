@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/conneroisu/groq-go/pkg/builders"
-	"github.com/conneroisu/groq-go/pkg/models"
-	"github.com/conneroisu/groq-go/pkg/moderation"
+	"github.com/philippbuschhaus/groq-go/pkg/builders"
+	"github.com/philippbuschhaus/groq-go/pkg/models"
+	"github.com/philippbuschhaus/groq-go/pkg/moderation"
 )
 
 type (

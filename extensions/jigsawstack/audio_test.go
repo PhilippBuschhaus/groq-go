@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/conneroisu/groq-go/extensions/jigsawstack"
-	"github.com/conneroisu/groq-go/pkg/test"
+	"github.com/philippbuschhaus/groq-go/extensions/jigsawstack"
+	"github.com/philippbuschhaus/groq-go/pkg/test"
 	"github.com/stretchr/testify/assert"
 )
 

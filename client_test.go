@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 
-	groq "github.com/conneroisu/groq-go"
+	groq "github.com/philippbuschhaus/groq-go"
 	"github.com/stretchr/testify/assert"
 )
 

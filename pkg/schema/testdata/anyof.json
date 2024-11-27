@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/conneroisu/groq-go/pkg/schema/root-any-of",
+  "$id": "https://github.com/philippbuschhaus/groq-go/pkg/schema/root-any-of",
   "$ref": "#/$defs/RootAnyOf",
   "$defs": {
     "ChildAnyOf": {
