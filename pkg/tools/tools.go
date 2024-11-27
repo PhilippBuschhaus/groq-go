@@ -31,9 +31,15 @@ type (
 	}
 	// FunctionDefinition represents the function definition.
 	FunctionDefinition struct {
-		Name        string             `json:"name"`
-		Description string             `json:"description"`
-		Parameters  FunctionParameters `json:"parameters"`
+		Name        string `json:"name"`
+		Description string `json:"description,omitempty"`
+
+		// InputSchema is an object describing the tool.
+		// You can pass json.RawMessage to describe the schema,
+		// or you can pass in a struct which serializes to the proper JSON schema.
+		// The jsonschema package is provided for convenience, but you should
+		// consider another specialized library if you require more complex schemas.
+		Parameters any `json:"parameters"`
 	}
 	// FunctionParameters represents the function parameters of a tool.
 	FunctionParameters struct {
