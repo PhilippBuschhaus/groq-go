@@ -1,6 +1,6 @@
 module github.com/philippbuschhaus/groq-go
 
-go 1.23.2
+go 1.23.0
 
 require (
 	github.com/buger/jsonparser v1.1.1
